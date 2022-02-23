@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Paragon",
+        "dentist": "Bek Neo Jun",
+        "appt_id" : ["1234"]
+    },
+    {
+        "name": "Boon Lay",
+        "dentist": "Jason Tan",
+        "appt_id" : ["1235", "1236"]
+    }
+]

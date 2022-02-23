@@ -1,0 +1,28 @@
+[
+    {
+        "patient_id" : "S0001",
+        "name" : "Tan Hui Hui",
+        "DOB" : "1960-09-29",
+        "address" : [ {"blk" :  "65",
+            "street" : "Ulu Pandan rd",
+            "unit" :  "#04-44",
+            "postal" : "658302"
+            }],
+        "email" : "huihuilovedog@gmail.com",
+        "mobileno" : "98123987",
+        "homeno" : "67823453"
+    },
+    {
+        "patient_id" : "S0002",
+        "name" : "Tan Jian Ming ",
+        "DOB" : "1987-10-29",
+        "address" : [ {"blk" :  "182",
+            "street" : "Yishun Ring rd",
+            "unit" :  "#11-23",
+            "postal" : "634305"
+            }],
+        "email" : "jianminglovecat@gmail.com",
+        "mobileno" : "98123987",
+        "homeno" : "67823453"
+    }
+]

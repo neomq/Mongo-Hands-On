@@ -1,0 +1,32 @@
+[
+    {   
+        "appt_id" : "1234",
+        "clinic" : "Paragon",
+        "dentist" : "Bek Neo Jun",
+        "treatment" : "scaling",
+        "patient_id" : "S0001",
+        "date" : "2001-12-23",
+        "time" : "1600"
+
+    },
+    {   
+        "appt_id" : "1235",
+        "clinic" : "Boon Lay",
+        "dentist" : "Jason Tan",
+        "treatment" : "scaling",
+        "patient" : "S0002",
+        "date" : "2001-11-23",
+        "time" : "1500"
+
+    },
+    {   
+        "appt_id" : "1236",
+        "clinic" : "Boon Lay",
+        "dentist" : "Jason Tan",
+        "treatment" : "extraction",
+        "patient" : "S0002",
+        "date" : "2001-11-24",
+        "time" : "0700"
+
+    }
+]
